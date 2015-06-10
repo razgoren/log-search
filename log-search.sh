@@ -1,6 +1,6 @@
 ########################################################################################
 #!/bin/bash
-# Version 1.00
+# Version 1.01
 # By Raz Goren
 # Script for searching strings in multiple text files and zipped files
 ########################################################################################
